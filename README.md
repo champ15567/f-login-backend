@@ -37,8 +37,3 @@ npm install react-router-dom
 
 npm install serve --save-dev
 serve -s dist
-
-github token
-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
-
-f-login-frontend
